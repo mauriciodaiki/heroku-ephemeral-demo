@@ -13,7 +13,7 @@ app.get("/", (req, res) => {
       <body>
         <h1>Ambiente efímero con Heroku</h1>
         <p>Aplicación de demostración para la Actividad 2.3.</p>
-        <p>Estado: funcionando correctamente.</p>
+        <p>Estado: ambiente efímero funcionando correctamente.</p>
       </body>
     </html>
   `);
